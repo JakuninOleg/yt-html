@@ -114,7 +114,7 @@
 
 - [ ] Для изображений задан атрибут alt с подходящий значением.
 
-**<img class="preloader__icon" src="<%= require('./images/not-found.svg')%>" alt="no">. В данном случае непонятное значение no**
+**img class="preloader__icon" src="<%= require('./images/not-found.svg')%>" alt="no" - в данном случае непонятное значение no**
 
 - [ ] Каркас макета реализован на Flex-layout или Grid-layout;
 
